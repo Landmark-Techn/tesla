@@ -1,0 +1,6 @@
+print('simo')
+print('Ivo') 
+print('chidi') 
+print('grace') 
+print('simon') 
+print('glory') 
